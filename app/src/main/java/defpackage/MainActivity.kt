@@ -1,4 +1,4 @@
-package defpackage.myapp
+package defpackage
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
